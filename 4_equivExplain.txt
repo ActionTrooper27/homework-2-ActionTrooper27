@@ -1,0 +1,24 @@
+//4_equivA.logika
+
+
+In 4_equivA.logika, 4_equivB.logika, and 4_equivExplain.txt, use truth tables to demonstrate
+the distributive law.
+
+That is, that:
+
+    p ∧ (q ∨ r) is equivalent to (p ∧ q) ∨ (p ∧ r)
+
+
+Put the first truth table in 4_equivA.logika and the second truth table in 4_equivB.logika
+
+When you are finished, open 4_equivExplain.txt and write a brief explanation of why you know
+from your truth tables that the two statements are equivalent.
+
+I recommend using split screen so you can see and edit all three files at once.
+To do this, right-click the 4_equivA.logika tab and select "Split right".
+
+//YOU DO THIS
+//PUT YOUR EXPLANATION HERE
+
+In A, the left of the 'and' is just 'p' and the right is 'q' or 'r'. This means that so long as 'p' and at least one of 'q' or 'r' are true, the statement will be true.
+In B, it is 'p' and 'q' on the left of the 'or' and 'p' and 'r' on the right. This means that, logically, B is equivalent to A because it requires 'p' and at least one of 'q' and/or 'r' to be true in order to make the full statement true.

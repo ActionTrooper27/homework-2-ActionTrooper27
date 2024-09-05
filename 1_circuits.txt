@@ -1,0 +1,31 @@
+//Homework 2
+//1_circuits.txt
+
+
+Circuit problem 1:
+
+Draw a picture (as described below) of the following circuit:
+
+(p OR NOT q) AND (NOT p OR q)
+
+
+
+
+
+Circuit problem 2:
+
+Draw a picture (as described below) of the following circuit:
+
+NOT(p AND NOT q) OR NOT(NOT p AND r)
+
+
+Instructions to include your circuits:
+
+Either draw BOTH circuits on the same paper or using a drawing tool. Label which circuit
+is which. Create the file 1_circuitsPic.png (or 1_circuitsPic.jpg) that contains a picture
+of both circuits. Add that picture file to your hw2 repository's src directory.
+
+You should see the picture file appear under src in the project view to the left. It will
+be colored in red since it is not part of your repository. Right-click the name of the picture
+file and select "Git-->Add". It should then be colored green, and will be committed with
+the rest of your changes when you commit/push.

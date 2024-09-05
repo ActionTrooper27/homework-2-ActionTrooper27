@@ -1,0 +1,19 @@
+//Homework 2
+//3_parseTree.txt
+
+Draw a parse tree for the following formula:
+
+¬p ∧ q ∧ r → ¬p ∨ ¬q ∧ r
+
+
+
+Instructions to include your parse tree:
+
+Either draw the parse tree on paper or using a drawing tool. Create the file
+3_treePic.png (or 3_treePic.jpg) that contains a picture of your parse tree.
+Add that picture file to your hw2 repository's src directory.
+
+You should see the picture file appear under src in the project view to the left. It will
+be listed in red since it is not part of your repository. Right-click the name of the picture
+file and select "Git-->Add". It should then be colored green, and will be committed with
+the rest of your changes when you commit/push.
